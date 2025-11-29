@@ -4,8 +4,8 @@ Data cleaning ,
 Data Analysis
 Pivot Tables ,
 Pivot Charts , 
-Math Function In Excel 
-Data Visualization 
+Math Function In Excel ,
+Data Visualization ,
 DashBoards
 
 
